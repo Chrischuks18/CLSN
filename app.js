@@ -1,4 +1,4 @@
-const paperFiles={A1:"assets/papers/charles-ndubisi.pdf",Opening:"assets/papers/inaugural-ikechukwu-onuoma.pdf",B1:"assets/papers/emmanuel-kazah.pdf",B4:"assets/papers/bulus-makama.pdf"};
+const paperFiles={A2:"assets/papers/raphael-ejimonye.pdf",A1:"assets/papers/charles-ndubisi.pdf",Opening:"assets/papers/inaugural-ikechukwu-onuoma.pdf",B1:"assets/papers/emmanuel-kazah.pdf",B4:"assets/papers/bulus-makama.pdf"};
 let convention;let active='27';
 const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 function dayHTML(d){return `<div class="day-heading"><h3>${esc(d[2])}</h3><span>${esc(d[1].toUpperCase())} · ${d[0]} OCTOBER</span></div>${d[3].map(e=>`<article class="event ${e[1].toLowerCase().includes('paper')?'paper-event':''}"><time>${esc(e[0])}</time><div><h4>${esc(e[1])}</h4>${e[2]?`<p>${esc(e[2])}</p>`:''}</div></article>`).join('')}`}
