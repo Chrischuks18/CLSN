@@ -1,0 +1,3 @@
+# Adding conference photographs
+
+Upload web-sized JPG or WebP images to assets/gallery/. Add entries to gallery.json: [{"day":"27","src":"assets/gallery/photo.jpg","thumbnail":"assets/gallery/photo-small.jpg","caption":"Arrival and registration","alt":"Participants arriving at the convention"}]. Use days 27, 28, 29 or 30. thumbnail is optional. Keep full images reasonably sized for mobile data. Only approved photos should be published. The gallery supports filtering, lazy loading, enlarged views, keyboard arrows, swipe navigation and downloading. An empty array displays the welcome placeholder.
