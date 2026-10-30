@@ -1,1 +1,217 @@
-{"papers": [["A1", "Fr. Dr. Charles Ndubisi", "Theological and Pastoral Foundations for Clerical Political Neutrality: An Examination of Canons 285 and 287", "27", "8:00 pm session", "Fr. Dr. Justine Nwafor", "Fr. Gold Lawrence"], ["A2", "Fr. Dr. Raphael Ejimonye", "Canonical Norms Governing Clerical Conduct in Political and Civic Life", "27", "Tuesday evening session", "Fr. Dr. Clement Agu", "Sr. Florence Ogbudu"], ["Opening", "Barr. Ikechukwu Onuoma, SAN", "The Role of the Church in Governance", "28", "11:00 am opening ceremonies", "", ""], ["B1", "Fr. Dr. Emmanuel Faweh Kazah", "Balancing Civic Engagement and Ecclesiastical Integrity: Guidelines for Clergy under canons 285 and 287", "28", "4:00 pm", "Fr. Dr. Chimobi Clement Emefu", "Fr. Clement Ability"], ["B3", "Fr. Dr. Jude Onyeakazi", "Church Authority and Judgment: Allowing Clergy Involvement under canons 287, §2", "28", "5:00 pm", "Fr. Dr. Patrick Okuta", "Sr. Okoye-Eze Marycordelia"], ["B4", "Fr. Dr. Bulus Makama", "Safeguarding Church Unity and Justice: Canonical Remedies for Violation of Canons 285 and 287", "28", "6:00 pm", "Fr. Dr. Justin J. Temswang", "Fr. James Egeonu"]], "days": [["27", "Tuesday", "Arrival & encounter", [["3:00 pm", "Arrival & registration", "Welcome to Domus Sancti Spiritus Guest House, Holy Ghost Cathedral, Enugu. Finance officers: Sr. Ijeoma Ihembu, DMMM, and Sr. Maria Nkoli Cheluchi Emenike, DLL."], ["6:00 pm", "Pre-convention meeting", "President and Executive Committee meeting."], ["7:00 pm", "Vespers & dinner", "Evening prayer and fellowship."], ["8:00 pm", "Paper presentations · A1 & A2", "Fr. Dr. Charles Ndubisi and Fr. Dr. Raphael Ejimonye. Presentation: 20 minutes; moderator’s intervention: 10 minutes; general interventions: 20 minutes. A2 follows within the evening session; a separate start time is not stated."]]], ["28", "Wednesday", "Prayer, dialogue & deliberation", [["7:00 am", "Morning prayer", "Led by deacons and religious sisters."], ["7:30 am", "Breakfast", ""], ["9:00 am", "Holy Mass · SS Simon & Jude, Apostles", "Principal celebrant: Most Rev. C. V. C. Onaga, Bishop of Enugu. Homilist: Most Rev. Anthony O. Gbuji. Liturgical colour: red."], ["11:00 am", "Opening ceremonies", "Introduction of the MC; opening prayer and welcome by Most Rev. C. V. C. Onaga; presentation of kolanuts by Fr. Dr. Alfred Nwoye; address by Most Rev. Ernest Obodo; presidential address by Fr. Edwin Omorogbe; paper by Barr. Ikechukwu Onuoma, SAN. Presentation of Festschrift in honour of Bishop Gbuji; awards and support; response by Msgr Obiora Ike; official presentation of the Canon Law Proceedings; vote of thanks by Rev. Fr. Hilary Ben-Ezenwa."], ["After ceremonies", "Lunch break", "Time not specified in the programme."], ["4:00 pm", "Paper B1 · Fr. Dr. Emmanuel Faweh Kazah", "Balancing Civic Engagement and Ecclesiastical Integrity: Guidelines for Clergy under canons 285 and 287"], ["5:00 pm", "Paper B3 · Fr. Dr. Jude Onyeakazi", "Church Authority and Judgment: Allowing Clergy Involvement under canons 287, §2"], ["6:00 pm", "Paper B4 · Fr. Dr. Bulus Makama", "Safeguarding Church Unity and Justice: Canonical Remedies for Violation of Canons 285 and 287"], ["7:00 pm", "Vespers & supper", ""], ["8:30 pm", "Annual General Meeting", "Minutes and approval of agenda; approval of new CLSN Constitution; CLSN Convention 2027."]]], ["29", "Thursday", "Thanksgiving & celebration", [["7:00 am", "Lauds", ""], ["7:30 am", "Breakfast", ""], ["8:00 am", "Departure for Emene", "To St. Joseph’s Church, Emene, Enugu."], ["10:00 am", "Bishop Gbuji’s 95th birthday thanksgiving Mass", "St. Joseph Catholic Church, Emene. Presided over by Bishop Anthony Gbuji. Homilist: Bishop Ernest Obodo, Apostolic Administrator of Abakaliki Diocese. Vestment: white. Reception includes presentation of books by Most Rev. Anthony O. Gbuji."], ["11:30 am", "Reception & entertainment", "At the celebrant’s residence, Emene."], ["3:00 pm", "Excursion", "Godfrey Okoye University, Enugu."], ["6:30 pm", "Vespers", ""], ["7:30 pm", "Gala night & banquet dinner", "An evening of fellowship and celebration."]]], ["30", "Friday", "Thanksgiving & farewell", [["6:30 am", "Office of the Dead & Holy Mass", "As listed in the supplied programme: Office of the Dead for Archbishop Augustine Akubeze and other deceased members of the Society. Holy Mass: Most Rev. Martin Igwemezie Uzoukwu. Homilist: Fr. Edwin Omorogbe. Vestment: white."], ["7:30 am", "Breakfast & departure", "Safe journey to your various destinations."]]]]}
+{
+  "papers": [
+    [
+      "A1",
+      "Fr. Dr. Charles Ndubisi",
+      "Theological and Pastoral Foundations for Clerical Political Neutrality: An Examination of Canons 285 and 287",
+      "27",
+      "8:00 pm session",
+      "Fr. Dr. Justine Nwafor",
+      "Fr. Gold Lawrence"
+    ],
+    [
+      "A2",
+      "Fr. Dr. Raphael Ejimonye",
+      "Canonical Norms Governing Clerical Conduct in Political and Civic Life",
+      "27",
+      "Tuesday evening session",
+      "Fr. Dr. Clement Agu",
+      "Sr. Florence Ogbudu"
+    ],
+    [
+      "Keynote",
+      "Barr. Peter Ndubuisi Mbah",
+      "Keynote Address at the 38th Annual Convention of the Canon Law Society of Nigeria",
+      "28",
+      "Opening ceremonies",
+      "",
+      ""
+    ],
+    [
+      "Opening",
+      "Barr. Ikechukwu Onuoma, SAN",
+      "The Role of the Church in Governance",
+      "28",
+      "11:00 am opening ceremonies",
+      "",
+      ""
+    ],
+    [
+      "B1",
+      "Fr. Dr. Emmanuel Faweh Kazah",
+      "Balancing Civic Engagement and Ecclesiastical Integrity: Guidelines for Clergy under canons 285 and 287",
+      "28",
+      "4:00 pm",
+      "Fr. Dr. Chimobi Clement Emefu",
+      "Fr. Clement Ability"
+    ],
+    [
+      "B3",
+      "Fr. Dr. Jude Onyeakazi",
+      "Church Authority and Judgment: Allowing Clergy Involvement under canons 287, §2",
+      "28",
+      "5:00 pm",
+      "Fr. Dr. Patrick Okuta",
+      "Sr. Okoye-Eze Marycordelia"
+    ],
+    [
+      "B4",
+      "Fr. Dr. Bulus Makama",
+      "Safeguarding Church Unity and Justice: Canonical Remedies for Violation of Canons 285 and 287",
+      "28",
+      "6:00 pm",
+      "Fr. Dr. Justin J. Temswang",
+      "Fr. James Egeonu"
+    ]
+  ],
+  "days": [
+    [
+      "27",
+      "Tuesday",
+      "Arrival & encounter",
+      [
+        [
+          "3:00 pm",
+          "Arrival & registration",
+          "Welcome to Domus Sancti Spiritus Guest House, Holy Ghost Cathedral, Enugu. Finance officers: Sr. Ijeoma Ihembu, DMMM, and Sr. Maria Nkoli Cheluchi Emenike, DLL."
+        ],
+        [
+          "6:00 pm",
+          "Pre-convention meeting",
+          "President and Executive Committee meeting."
+        ],
+        [
+          "7:00 pm",
+          "Vespers & dinner",
+          "Evening prayer and fellowship."
+        ],
+        [
+          "8:00 pm",
+          "Paper presentations · A1 & A2",
+          "Fr. Dr. Charles Ndubisi and Fr. Dr. Raphael Ejimonye. Presentation: 20 minutes; moderator’s intervention: 10 minutes; general interventions: 20 minutes. A2 follows within the evening session; a separate start time is not stated."
+        ]
+      ]
+    ],
+    [
+      "28",
+      "Wednesday",
+      "Prayer, dialogue & deliberation",
+      [
+        [
+          "7:00 am",
+          "Morning prayer",
+          "Led by deacons and religious sisters."
+        ],
+        [
+          "7:30 am",
+          "Breakfast",
+          ""
+        ],
+        [
+          "9:00 am",
+          "Holy Mass · SS Simon & Jude, Apostles",
+          "Principal celebrant: Most Rev. C. V. C. Onaga, Bishop of Enugu. Homilist: Most Rev. Anthony O. Gbuji. Liturgical colour: red."
+        ],
+        [
+          "11:00 am",
+          "Opening ceremonies",
+          "Introduction of the MC; opening prayer and welcome by Most Rev. C. V. C. Onaga; presentation of kolanuts by Fr. Dr. Alfred Nwoye; address by Most Rev. Ernest Obodo; presidential address by Fr. Edwin Omorogbe; paper by Barr. Ikechukwu Onuoma, SAN. Presentation of Festschrift in honour of Bishop Gbuji; awards and support; response by Msgr Obiora Ike; official presentation of the Canon Law Proceedings; vote of thanks by Rev. Fr. Hilary Ben-Ezenwa."
+        ],
+        [
+          "After ceremonies",
+          "Lunch break",
+          "Time not specified in the programme."
+        ],
+        [
+          "4:00 pm",
+          "Paper B1 · Fr. Dr. Emmanuel Faweh Kazah",
+          "Balancing Civic Engagement and Ecclesiastical Integrity: Guidelines for Clergy under canons 285 and 287"
+        ],
+        [
+          "5:00 pm",
+          "Paper B3 · Fr. Dr. Jude Onyeakazi",
+          "Church Authority and Judgment: Allowing Clergy Involvement under canons 287, §2"
+        ],
+        [
+          "6:00 pm",
+          "Paper B4 · Fr. Dr. Bulus Makama",
+          "Safeguarding Church Unity and Justice: Canonical Remedies for Violation of Canons 285 and 287"
+        ],
+        [
+          "7:00 pm",
+          "Vespers & supper",
+          ""
+        ],
+        [
+          "8:30 pm",
+          "Annual General Meeting",
+          "Minutes and approval of agenda; approval of new CLSN Constitution; CLSN Convention 2027."
+        ]
+      ]
+    ],
+    [
+      "29",
+      "Thursday",
+      "Thanksgiving & celebration",
+      [
+        [
+          "7:00 am",
+          "Lauds",
+          ""
+        ],
+        [
+          "7:30 am",
+          "Breakfast",
+          ""
+        ],
+        [
+          "8:00 am",
+          "Departure for Emene",
+          "To St. Joseph’s Church, Emene, Enugu."
+        ],
+        [
+          "10:00 am",
+          "Bishop Gbuji’s 95th birthday thanksgiving Mass",
+          "St. Joseph Catholic Church, Emene. Presided over by Bishop Anthony Gbuji. Homilist: Bishop Ernest Obodo, Apostolic Administrator of Abakaliki Diocese. Vestment: white. Reception includes presentation of books by Most Rev. Anthony O. Gbuji."
+        ],
+        [
+          "11:30 am",
+          "Reception & entertainment",
+          "At the celebrant’s residence, Emene."
+        ],
+        [
+          "3:00 pm",
+          "Excursion",
+          "Godfrey Okoye University, Enugu."
+        ],
+        [
+          "6:30 pm",
+          "Vespers",
+          ""
+        ],
+        [
+          "7:30 pm",
+          "Gala night & banquet dinner",
+          "An evening of fellowship and celebration."
+        ]
+      ]
+    ],
+    [
+      "30",
+      "Friday",
+      "Thanksgiving & farewell",
+      [
+        [
+          "6:30 am",
+          "Office of the Dead & Holy Mass",
+          "As listed in the supplied programme: Office of the Dead for Archbishop Augustine Akubeze and other deceased members of the Society. Holy Mass: Most Rev. Martin Igwemezie Uzoukwu. Homilist: Fr. Edwin Omorogbe. Vestment: white."
+        ],
+        [
+          "7:30 am",
+          "Breakfast & departure",
+          "Safe journey to your various destinations."
+        ]
+      ]
+    ]
+  ]
+}
